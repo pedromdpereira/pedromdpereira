@@ -1,21 +1,21 @@
 
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromdpereira&show_icons=true&theme=onedark&hide_border=true&hide_title=true&hide=contribs" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromdpereira&layout=compact&langs_count=8&theme=onedark&hide_border=true&hide=jupyter%20notebook" />
 </a>
 <p><p/>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/pedromdpereira/Previsor-Falso-Alarme-Incendios">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedromdpereira&repo=Previsor-Falso-Alarme-Incendios&theme=onedark&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/pedromdpereira/Previsao-de-Precos-Carros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedromdpereira&repo=Previsao-de-Precos-Carros&theme=onedark&hide_border=true" />
 <p><p/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/pedromdpereira/Instagram-Downloader-Selenium">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedromdpereira&repo=Instagram-Downloader-Selenium&theme=onedark&hide_border=true" />
 </a>
 
