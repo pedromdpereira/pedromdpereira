@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <a>
-  <img href="" align="center" src="https://github-readme-stats.vercel.app/api?username=pedromdpereira&show_icons=true&theme=onedark&hide_border=true&hide_title=true&hide=contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromdpereira&show_icons=true&theme=onedark&hide_border=true&hide_title=true&hide=contribs" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromdpereira&layout=compact&langs_count=8&theme=onedark&hide_border=true&hide=jupyter%20notebook" />
