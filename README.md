@@ -14,10 +14,6 @@
 <a href="https://github.com/pedromdpereira/Previsao-de-Precos-Carros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedromdpereira&repo=Previsao-de-Precos-Carros&theme=onedark&hide_border=true" />
 <p><p/>
-</a>
-<a href="https://github.com/pedromdpereira/Instagram-Downloader-Selenium">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedromdpereira&repo=Instagram-Downloader-Selenium&theme=onedark&hide_border=true" />
-</a>
 
 <!--
 **pedromdpereira/pedromdpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
