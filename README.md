@@ -7,13 +7,6 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromdpereira&layout=compact&langs_count=8&theme=onedark&hide_border=true&hide=jupyter%20notebook" />
 </a>
-<p><p/>
-<a href="https://github.com/pedromdpereira/Previsor-Falso-Alarme-Incendios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedromdpereira&repo=Previsor-Falso-Alarme-Incendios&theme=onedark&hide_border=true" />
-</a>
-<a href="https://github.com/pedromdpereira/Previsao-de-Precos-Carros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedromdpereira&repo=Previsao-de-Precos-Carros&theme=onedark&hide_border=true" />
-<p><p/>
 
 <!--
 **pedromdpereira/pedromdpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
